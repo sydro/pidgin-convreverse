@@ -1,0 +1,13 @@
+Version 0.3
+	* Fix website
+	* Add status nofitication label
+	* Add item in conversation menu
+
+Version 0.2
+	* Add replace function for html tag
+	* Add convreverse.h with const declarations
+	* Add more codification codes for upper chars
+	* Add activation menu in Tools
+
+Version 0.1:
+	* First version of this plugin. 
